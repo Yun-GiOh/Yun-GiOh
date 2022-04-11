@@ -3,8 +3,6 @@
 - 🌱 I’m currently learning NFT and CI/CD
 - 💞️ I hope to be a backend engineer.
 - 📫 How to reach me 
-- email : orobot13@gmail.com 
-- Kakao : @orobot
 
 <!---
 Yun-GiOh/Yun-GiOh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
